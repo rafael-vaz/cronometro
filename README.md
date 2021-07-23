@@ -11,8 +11,8 @@ Aplicativo de Cronômetro Digital desenvolvido utilizando React Native em conjun
 
 ## Preview 📷
 
-<img src="https://github.com/rafael-vaz/timer-expo-app/blob/main/src/images/01.png?raw=true">
-<img src="https://github.com/rafael-vaz/timer-expo-app/blob/main/src/images/02.png?raw=true">
+<img src="https://github.com/rafael-vaz/timer-expo-app/blob/main/src/images/01.png?raw=true"> <img src="https://github.com/rafael-vaz/timer-expo-app/blob/main/src/images/02.png?raw=true">
+
 
 
 
