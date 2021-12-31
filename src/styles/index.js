@@ -64,12 +64,12 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   btnImage: {
-    width: 28,
-    height: 28,
-  },
-  btnImage2: {
     width: 25,
     height: 25,
+  },
+  btnImage2: {
+    width: 15,
+    height: 15,
   },
   registroContent: {
     backgroundColor: "#DDE1EC",

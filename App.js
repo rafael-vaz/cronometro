@@ -99,12 +99,12 @@ class App extends Component {
     var txtM = this.formatar(this.state.minutos);
     var txtS = this.formatar(this.state.segundos);
 
-    let imageDraw = require("./src/images/clock-draw.svg");
-    let resetDraw = require("./src/images/reset.svg");
-    let recordDraw = require("./src/images/record.svg");
-    let pauseDraw = require("./src/images/pause.svg");
-    let playDraw = require("./src/images/play.svg");
-    let backgroundDraw = require("./src/images/wave.svg");
+    let imageDraw = require("./src/images/clock-draw.png");
+    let resetDraw = require("./src/images/reset.png");
+    let recordDraw = require("./src/images/record.png");
+    let pauseDraw = require("./src/images/pause.png");
+    let playDraw = require("./src/images/play.png");
+    let backgroundDraw = require("./src/images/wave.png");
 
     return (
       <ScrollView>
@@ -139,7 +139,7 @@ class App extends Component {
             onPress={this.marcarVolta}
             title="Marcar Volta"
           >
-            <Image style={[styles.btnImage2]} source={recordDraw} />
+            <Image style={[styles.btnImage]} source={recordDraw} />
           </TouchableOpacity>
 
           <TouchableOpacity
